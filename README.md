@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O uso das IAs generativas num futuro próximo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um card com um texto introdutório tratando sobre o uso das IAs generativas em um futuro próximo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Google Gemini
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei a crição do conteúdo contendo um card que ilustrasse o texto na plataforma Google Gemini.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+O trabalho apresenta o conteúdo solicitado introduzindo de forma simples e objetiva o tema para um público geral, sem necessidade de conhecimento no assunto.
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Foi incrívelmente simples e didático executar esta tarefa. O resultado foi objetivo e surpriendente```
 
 ### Exemplos e Insigths
 
